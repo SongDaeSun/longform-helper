@@ -35,3 +35,4 @@ def edit_summary(longform_name):
 
 if __name__ == "__main__":
    edit_summary("거시경제이론")
+   edit_summary("선물옵션")
